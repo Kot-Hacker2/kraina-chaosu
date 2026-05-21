@@ -27,7 +27,7 @@ B
 ---
 
 ## 🧭 2. SYSTEM PODRÓŻY I MECHANIKA ŚWIATA
-* **Czas**: Każdy krok zajmuje 2 sekundy czasu rzeczywistego.
+* **Czas**: Każdy krok zajmuje 0.2 sekundy czasu rzeczywistego.
 * **Zużycie Energii**: 1 krok = 1 pkt energii.
 * **Zdarzenia Losowe**: Szansa 15/70 na turę. Aktywują się tylko na polach "dziczy" (poza strukturami).
 * **Spawn**: Wybierasz pozycję od -12 do 12. Unikaj strefy Studni (-2 do 2), w przeciwnym razie system zrzuci Cię na pozycję [12, 12].
